@@ -5,6 +5,7 @@ Describe briefly your project idea. It can be any of the following:
 * the migration of an existing pipeline to Nextflow; 
 * the enhancement of an existing Nextflow pipeline;
 * the implementation of a Nextflow feature;
+* integration with other tools;
 * something else (feel free to propose).
 
 #### Data:

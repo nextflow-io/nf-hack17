@@ -14,3 +14,7 @@ that will take on 14-15 September 2017 in Barcelona.
 Project ideas are listed in the [issues page](https://github.com/nextflow-io/hack17/issues).
 
 The following [Gitter channel](https://gitter.im/nextflow-io/hack17) is available to the participants to quickly exchange information or question related to the workshop activities. 
+
+### Tutorial 
+
+The Nextflow tutorial is available at [this reporitory](https://github.com/nextflow-io/hack17-tutorial).

@@ -8,6 +8,9 @@ that will take on 14-15 September 2017 in Barcelona.
 
 [PRBB building](https://www.google.es/maps/place/CRG/@41.3853788,2.191863,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a305ffd98f7b:0xd9cd1df01bab41bc!8m2!3d41.3853788!4d2.1940517?hl=en), Charles Darwin room, ground floor (you will need an ID card to enter in the building).  
 
+### Schedule 
+
+The workshop schedule is available [here](schedule.md).
 
 ### Hackathon 
 

@@ -1,6 +1,6 @@
 ### Thursday, 14 September
  
-<table border=1 cellpadding=9 width='90%'> 
+<table border=0 cellpadding=9 width='90%'> 
 <tr> 
 <td valign='top'>10.00</td> 
 <td valign='top'>Welcome & introduction<br>
@@ -80,7 +80,7 @@
 
 ### Friday, 15 September
  
-<table border=1 cellpadding=9 width='90%'> 
+<table border=0 cellpadding=9 width='90%'> 
 <tr> 
 <td valign='top'>9.30</td> 
 <td valign='top'>Computational workflows for omics analyses at the IARC<br>

@@ -1,4 +1,6 @@
-### Thursday, 14 September
+## Schedule 
+
+#### Thursday, 14 September
  
 <table border=0 cellpadding=9 width='90%'> 
 <tr> 
@@ -17,7 +19,7 @@
 
 <tr>
 <td valign='top'>10.30</td> 
-<td valign='top'>Standardising Swedish genomics analyses using Nextflow<br>
+<td valign='top'>[Standardising Swedish genomics analyses using Nextflow](abstracts.md#standardising-swedish-genomics-analyses-using-nextflow)<br>
     <i>Phil Ewels<br>
     National Genomics Infrastructure, SciLifeLab, Sweden</i>
     </td>
@@ -78,7 +80,7 @@
  
 </table>
 
-### Friday, 15 September
+#### Friday, 15 September
  
 <table border=0 cellpadding=9 width='90%'> 
 <tr> 
@@ -146,3 +148,4 @@
 </tr>
 
 </table>
+

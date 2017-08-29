@@ -86,7 +86,7 @@ high quality results to an increasing number of users. Here we present our exper
 extensively used pipelines to the Nextflow framework and creating docker/singularity containers for reproducibility.
 
 
-### Deploying reproducible data analysis in the EOSC project
+### Standardizing life sciences datasets to improve studies reproducibility in the European Open Science Cloud
 
 *Jordi Rambla, European Genome-Phenome Archive, CRG, Spain*
 

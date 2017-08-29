@@ -15,7 +15,7 @@ a roughly estimation of the required storage size.
 
 #### Computing resources:
 
-A roughly esistimation of the number and type of [AWS instances](https://aws.amazon.com/ec2/instance-types/) needed (if applicable).
+A rough estimation of the number and type of [AWS instances](https://aws.amazon.com/ec2/instance-types/) needed (if applicable).
 
 #### Project Lead:
 

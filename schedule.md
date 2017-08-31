@@ -65,7 +65,7 @@
  
 <tr>
 <td valign='top'>13.10</td> 
-<td valign='top'>Simplifying shotgun metagenomic analysis with Nextflow<br>
+<td valign='top'><a href='https://github.com/nextflow-io/hack17/blob/master/abstracts.md#simplifying-shotgun-metagenomic-analysis-with-nextflow'>Simplifying shotgun metagenomic analysis with Nextflow</a><br>
     <i>Alessia Visconti<br>
     Department of Twins Research, King's College, UK</i></td>
 </tr> 

@@ -113,7 +113,7 @@
 
 <tr> 
 <td valign='top'>11.30</td> 
-<td valign='top'>(title to be defined)<br>
+<td valign='top'><a href='https://github.com/nextflow-io/hack17/blob/master/abstracts.md#flexible-bioinformatics-workflows-for-ngs-applications'>Flexible bioinformatics workflows for NGS applications</a><br>
     <i>Johnny Wu<br>
     Roche Sequencing, Pleasanton, USA</i></td>
 </tr>

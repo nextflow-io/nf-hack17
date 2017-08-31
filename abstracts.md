@@ -126,3 +126,10 @@ views about how computers are purchased (i.e. don’t buy one) can lead to a lot
 they can be used. And when we’re no longer bound by these old rules of engagement, we can solve some 
 difficult problems without noticing the effort. We’ll look at a few examples from various science domains, 
 and hopefully inspire you to think up some of your own.
+
+### Simplifying shotgun metagenomic analysis with Nextflow
+
+*Alessia Visconti, Department of Twins Research, King's College, UK*
+
+Thanks to the increased cost-effectiveness of high-throughput technologies, the amount of data collected on microorganisms (bacteria, archaea, microbial eukaryotes, fungi, and viruses) has surged, boosting the development of software for their analysis. Nevertheless, researchers may not have the necessary expertise to define and implement data processing workflows nor to install and run software on their local machine or cluster.
+By using the Nextflow framework, we developed a novel metagenomics analysis workflow that is simple to use, easily portable, and very flexible and customisable. Moreover, the integration with a Docker container saves the users from the hassle of installing the required software, increasing, at the same time, the reproducibility of the results.

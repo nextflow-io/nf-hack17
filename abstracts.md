@@ -133,3 +133,9 @@ and hopefully inspire you to think up some of your own.
 
 Thanks to the increased cost-effectiveness of high-throughput technologies, the amount of data collected on microorganisms (bacteria, archaea, microbial eukaryotes, fungi, and viruses) has surged, boosting the development of software for their analysis. Nevertheless, researchers may not have the necessary expertise to define and implement data processing workflows nor to install and run software on their local machine or cluster.
 By using the Nextflow framework, we developed a novel metagenomics analysis workflow, [YAMP](https://github.com/alesssia/YAMP), that is simple to use, easily portable, and very flexible and customisable. Moreover, the integration with a Docker container saves the users from the hassle of installing the required software, increasing, at the same time, the reproducibility of the results.
+
+### Flexible bioinformatics workflows for NGS applications
+
+*Johnny Wu and Amrita Pati, Roche Sequencing, Pleasanton, USA*
+
+Targeted sequencing analyses supporting NGS assay development requires flexible and robust orchestration of analysis components in a portable manner. Using Nextflow, we have developed a bioinformatics workflow to support product development. Development of the workflow adhered to the design control process for medical devices as guided by the US FDA. Nextflow, paired with the Docker containerization technology, was chosen to execute the bioinformatics workflow on multiple compute infrastructures across sites within the organization. Characterization of the workflow ensures that turnaround time and performance requirements are achieved. We present the bioinformatics workflow and its utilization in our product development ecosystem.

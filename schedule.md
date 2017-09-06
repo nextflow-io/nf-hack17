@@ -126,17 +126,17 @@
 </tr>
 
 <tr> 
+<td valign='top'>12.40</td> 
+ <td valign='top'><a href='https://github.com/nextflow-io/hack17/blob/master/abstracts.md#putting-the-computation-in-computational-biology'>Putting the Computation in Computational Biology</a><br>
+    <i>Mike Smoot<br>
+    Synthetic Genomics, La Jolla, CA, USA</i></td>
+</tr>
+
+<tr> 
 <td valign='top'>12.20</td> 
  <td valign='top'><a href='abstracts.md#unbounded-by-economics'>Unbounded by Economics</a><br>
     <i>Brendan Bouffler<br>
     AWS Research Cloud Program, UK</i></td>
-</tr>
-
-<tr> 
-<td valign='top'>12.40</td> 
-<td valign='top'>Challenges with large-scale portable computational workflows<br>
-    <i>Paolo Di Tommaso<br>
-    Comparative Bioinformatics, CRG, Spain</i></td>
 </tr>
 
 <tr> 

@@ -139,3 +139,9 @@ By using the Nextflow framework, we developed a novel metagenomics analysis work
 *Johnny Wu and Amrita Pati, Roche Sequencing, Pleasanton, USA*
 
 Targeted sequencing analyses supporting NGS assay development requires flexible and robust orchestration of analysis components in a portable manner. Using Nextflow, we have developed a bioinformatics workflow to support product development. Development of the workflow adhered to the design control process for medical devices as guided by the US FDA. Nextflow, paired with the Docker containerization technology, was chosen to execute the bioinformatics workflow on multiple compute infrastructures across sites within the organization. Characterization of the workflow ensures that turnaround time and performance requirements are achieved. We present the bioinformatics workflow and its utilization in our product development ecosystem.
+
+### Putting the Computation in Computational Biology
+
+*Mike Smoot, Synthetic Genomics, La Jolla, CA, USA*
+
+Synthetic Genomics uses Nextflow for many of its bioinformatics pipelines. This talk describes the cloud infrastructure that we have designed to accommodate the variable demands of our pipelines and users. I will discuss the elements of our software stack, the basic architecture of our cloud configuration, and our cluster design.  Topics will include how our infrastructure scales to meet increased demand, design elements of our pipelines to facilitate cloud execution, integration with external services, and other aspects of our system that may be of interest to the Nextflow community.

@@ -3,7 +3,7 @@ set -e
 set -u 
 
 X_TYPE=${1:-t2.small}
-X_AMI=${2:-ami-4fed2936}
+X_AMI=${2:-ami-20ca0d59}
 X_DISK=${3:-10}
 X_SUBNET=${4:-subnet-05222a43} 
 X_RND=$(dd bs=12 count=1 if=/dev/urandom 2>/dev/null | base64 | tr +/ 0A)

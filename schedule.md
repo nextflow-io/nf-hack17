@@ -39,13 +39,12 @@
     </td>
 </tr>   
  
-<tr>
+<tr> 
 <td valign='top'>12.00</td> 
-<td valign='top'><a href='abstracts.md#using-nextflow-for-large-scale-benchmarking-of-phylogenetic-methods-and-tools'>Using Nextflow for Large Scale Benchmarking of Phylogenetic methods and tools</a><br>
-    <i>Frédéric Lemoine<br>
-    Evolutionary Bioinformatics, Institut Pasteur, France</i>
-    </td>
-</tr>  
+<td valign='top'><a href='abstracts.md#inside-out-reproducible-analysis-of-external-data-inside-containers-with-nextflow'>Inside-Out: reproducible analysis of external data, inside containers with Nextflow</a><br>
+    <i>Evan Floden<br>
+    Comparative Bioinformatics, CRG, Spain</i></td>
+</tr>
 
 <tr>
 <td valign='top'>12.30</td> 
@@ -99,12 +98,13 @@
     Oslo University Hospital, Norway</i></td>
 </tr> 
 
-<tr> 
+<tr>
 <td valign='top'>10.30</td> 
-<td valign='top'><a href='abstracts.md#inside-out-reproducible-analysis-of-external-data-inside-containers-with-nextflow'>Inside-Out: reproducible analysis of external data, inside containers with Nextflow</a><br>
-    <i>Evan Floden<br>
-    Comparative Bioinformatics, CRG, Spain</i></td>
-</tr>
+<td valign='top'><a href='abstracts.md#using-nextflow-for-large-scale-benchmarking-of-phylogenetic-methods-and-tools'>Using Nextflow for Large Scale Benchmarking of Phylogenetic methods and tools</a><br>
+    <i>Frédéric Lemoine<br>
+    Evolutionary Bioinformatics, Institut Pasteur, France</i>
+    </td>
+</tr>  
 
 <tr> 
 <td valign='top'>11.00</td> 

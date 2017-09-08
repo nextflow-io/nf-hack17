@@ -12,7 +12,7 @@
 
 <tr>
 <td valign='top'>10.15</td> 
-<td valign='top'>Nextflow: a quick review<br>
+<td valign='top'>Lessons learned and new challenges<br>
     <i>Paolo Di Tommaso<br>
     Comparative Bioinformatics, CRG, Spain</i></td>
 </tr>

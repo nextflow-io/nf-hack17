@@ -139,14 +139,14 @@
 </tr>
 
 <tr> 
-<td valign='top'>12.40</td> 
+<td valign='top'>12.20</td> 
  <td valign='top'><a href='abstracts.md#putting-the-computation-in-computational-biology'>Putting the Computation in Computational Biology</a><br>
     <i>Mike Smoot<br>
     Synthetic Genomics, La Jolla, CA, USA</i></td>
 </tr>
 
 <tr> 
-<td valign='top'>12.20</td> 
+<td valign='top'>12.40</td> 
  <td valign='top'>(to be provided)</a><br>
     <i>Angel Pizarro<br>
     AWS Scientific computing, Amazon, USA</i></td>

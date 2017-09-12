@@ -134,9 +134,9 @@
 
 <tr> 
 <td valign='top'>12.20</td> 
- <td valign='top'><a href='abstracts.md#unbounded-by-economics'>Unbounded by Economics</a><br>
-    <i>Brendan Bouffler<br>
-    AWS Research Cloud Program, UK</i></td>
+ <td valign='top'>(to be provided)</a><br>
+    <i>Angel Pizarro<br>
+    AWS Scientific computing, Amazon, USA</i></td>
 </tr>
 
 <tr> 

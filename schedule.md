@@ -78,12 +78,21 @@
 
 <tr>
 <td valign='top'>13.30</td> 
-<td valign='top'>Lunch</td>
+<td valign='top'>Lunch<br>
+ <a hef='https://goo.gl/maps/27FHPyPtUGB2'>Shoko restaurant</a>
+ </td>
 </tr> 
 
 <tr>
 <td valign='top'>14.30<br>18.30</td> 
 <td valign='top'>Hackathon & course</td>
+</tr> 
+ 
+<tr>
+<td valign='top'>20.00</td> 
+<td valign='top'>Social dinner<br>
+ <a href='https://goo.gl/maps/JJXAbxHQYmr'>La Fooditeca</a>
+ </td>
 </tr> 
  
 </table>
@@ -148,7 +157,9 @@
 
 <tr> 
 <td valign='top'>13.00</td> 
-<td valign='top'>Lunch</i></td>
+<td valign='top'>Lunch<br>
+   Buffet lunch, CRG ground floor
+ </td>
 </tr>
 
 <tr> 

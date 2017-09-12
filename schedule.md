@@ -78,7 +78,7 @@
 
 <tr>
 <td valign='top'>13.30</td> 
-<td valign='top'>Lunch, <a href='https://goo.gl/maps/27FHPyPtUGB2'>Shoko</a> restaurant. 
+<td valign='top'>Lunch at <a href='https://goo.gl/maps/27FHPyPtUGB2'>Shoko</a> restaurant. 
 </tr> 
 
 <tr>
@@ -88,7 +88,7 @@
  
 <tr>
 <td valign='top'>20.00</td> 
-<td valign='top'>Social dinner, <a href='https://goo.gl/maps/JJXAbxHQYmr'>La Fooditeca</a> restaurant.
+<td valign='top'>Social dinner at <a href='https://goo.gl/maps/JJXAbxHQYmr'>La Fooditeca</a> restaurant.
  </td>
 </tr> 
  

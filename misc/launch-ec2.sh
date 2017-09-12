@@ -2,8 +2,8 @@
 set -e 
 set -u 
 
-X_DISK=${1:-100}
-X_TYPE=${2:-t2.xlarge}
+X_TYPE=${1:-t2.xlarge}
+X_DISK=${2:-100}
 X_AMI=${3:-ami-b9fe38c0}
 X_SUBNET=${4:-subnet-05222a43} 
 X_RND=$(dd bs=12 count=1 if=/dev/urandom 2>/dev/null | base64 | tr +/ 0A)

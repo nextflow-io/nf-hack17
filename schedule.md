@@ -11,7 +11,7 @@
 </tr> 
 
 <tr>
-<td valign='top'>10.15</td> 
+<td valign='top'>10.10</td> 
 <td valign='top'>Lessons learned and new challenges<br>
     <i>Paolo Di Tommaso<br>
     Comparative Bioinformatics, CRG, Spain</i></td>

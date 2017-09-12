@@ -4,6 +4,13 @@
  
 <table border=0 cellpadding=9 width='90%'> 
 <tr> 
+<td valign='top'>9.55</td> 
+<td valign='top'>Opening of the works<br>
+    <i>Damjana Kastelic<br>
+    Training department, CRG, Spain</i></td>
+</tr> 
+ 
+<tr> 
 <td valign='top'>10.00</td> 
 <td valign='top'>Welcome & introduction<br>
     <i>Cedric Notredame<br>

@@ -78,8 +78,7 @@
 
 <tr>
 <td valign='top'>13.30</td> 
-<td valign='top'>Lunch, <a hef='https://goo.gl/maps/27FHPyPtUGB2'>Shoko</a> restaurant.
- </td>
+<td valign='top'>Social dinner, <a href='https://goo.gl/maps/27FHPyPtUGB2'>Shoko</a> restaurant. 
 </tr> 
 
 <tr>

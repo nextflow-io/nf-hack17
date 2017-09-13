@@ -27,3 +27,5 @@ We also encourage you to create a separate GitHub repository to keep track your 
 ### Tutorial 
 
 The Nextflow tutorial is available at [this reporitory](https://github.com/nextflow-io/hack17-tutorial).
+
+Tutorial participants are encouraged to implement the Variant Calling pipeline described in [this tutorial](https://nextflow-io.github.io/hack17-varcall/) in the second day. 

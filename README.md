@@ -20,7 +20,9 @@ We will use the following Gitter [channel](https://gitter.im/nextflow-io/hack17)
 
 Project ideas are listed in the [issues page](https://github.com/nextflow-io/hack17/issues).
 
-The following [Gitter channel](https://gitter.im/nextflow-io/hack17) is available to the participants to quickly exchange information or question related to the workshop activities. 
+Feel free to join one of the listed project or create a new one if you have a specific idea on which you would like to work. 
+
+We also encourage you to create a separate GitHub repository to keep track your project files and link it to the relative [project idea](https://github.com/nextflow-io/hack17/issues) in the above link. This will allow us to share and follow-up the hackathon achievement. 
 
 ### Tutorial 
 

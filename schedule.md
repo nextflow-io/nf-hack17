@@ -83,7 +83,7 @@
 
 <tr>
 <td valign='top'>14.30<br>18.30</td> 
-<td valign='top'>Hackathon & course</td>
+<td valign='top'>Hackathon (CRG Bioinformatics room, 4th floor, 486) & course (Charles Darwin room)</td>
 </tr> 
  
 <tr>
@@ -160,7 +160,7 @@
 
 <tr> 
 <td valign='top'>14.00<br>18.00</td> 
-<td valign='top'>Hackathon</i></td>
+<td valign='top'>Hackathon Charles Darwin room)</i></td>
 </tr>
 
 </table>

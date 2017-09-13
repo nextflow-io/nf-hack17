@@ -7,7 +7,7 @@
 <td valign='top'>9.55</td> 
 <td valign='top'>Opening<br>
     <i>Damjana Kastelic<br>
-    CRG Scientific Training, CRG, Spain</i></td>
+    Scientific Training, CRG, Spain</i></td>
 </tr> 
  
 <tr> 

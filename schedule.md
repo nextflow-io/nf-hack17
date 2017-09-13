@@ -160,7 +160,7 @@
 
 <tr> 
 <td valign='top'>14.00<br>18.00</td> 
-<td valign='top'>Hackathon Charles Darwin room)</i></td>
+<td valign='top'>Hackathon (Charles Darwin room)</i></td>
 </tr>
 
 </table>

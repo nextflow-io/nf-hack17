@@ -14,7 +14,7 @@ The workshop schedule is available [here](schedule.md).
 
 ### Event chat
 
-We will use the following Gitter [channel](https://gitter.im/nextflow-io/hack17) during the workshop activities. Feel free to register and use for any question about logistic, problems, doubts during the hackathon, etc. 
+We will use the following Gitter [channel](https://gitter.im/nextflow-io/hack17) during the workshop activities. Feel free to register and use it for any question about logistic, problems, doubts during the hackathon, etc. 
 
 ### Hackathon 
 

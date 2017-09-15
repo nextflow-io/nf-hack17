@@ -24,6 +24,8 @@ This made development work difficult and led to inevitable technical debt. In th
 have migrated to Nextflow for a range of our data types, the difficulties that we faced and how we hope to leverage
 Nextflow to migrate to the cloud in coming years.
 
+Slides are available [here](https://www.slideshare.net/tallphil/standardising-swedish-genomics-analyses-using-nextflow/1).
+
 ### Building Pipelines to Support African Bioinformatics
 
 *Scott Hazelhurst, University of the Witwatersrand, Johannesburg on behalf of the H3A Bionet Consortium, South Africa*

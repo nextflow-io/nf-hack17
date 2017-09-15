@@ -26,7 +26,7 @@
 
 <tr>
 <td valign='top'>10.30</td>
-<td valign='top'><a href='abstracts.md#standardising-swedish-genomics-analyses-using-nextflow'>Standardising Swedish genomics analyses using Nextflow</a><br>
+<td valign='top'><a href='abstracts.md#standardising-swedish-genomics-analyses-using-nextflow'>Standardising Swedish genomics analyses using Nextflow</a> [<a href='https://www.slideshare.net/tallphil/standardising-swedish-genomics-analyses-using-nextflow/1'>slides</a>]<br>
     <i>Phil Ewels<br>
     National Genomics Infrastructure, SciLifeLab, Sweden</i>
     </td>

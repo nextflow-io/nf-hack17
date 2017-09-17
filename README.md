@@ -29,3 +29,11 @@ We also encourage you to create a separate GitHub repository to keep track your 
 The Nextflow tutorial is available at [this reporitory](https://github.com/nextflow-io/hack17-tutorial).
 
 Tutorial participants are encouraged to implement the Variant Calling pipeline described in [this tutorial](https://nextflow-io.github.io/hack17-varcall/) in the second day. 
+
+### Slides
+
+You can find below the link to the speaker slides: 
+
+* Matthieu Foll - [Computational workflows for omics analyses at the IARC](https://www.slideshare.net/MatthieuFoll/computational-workflows-for-omics-analyses-at-the-iarc) 
+* Paolo Di Tommaso - [Lessons learned and new challenges](https://speakerdeck.com/pditommaso/nextflow-workshop-17-lessons-learned-and-new-challenges)
+* Phil Ewels - [Standardising Swedish genomics analyses using Nextflow](https://www.slideshare.net/tallphil/standardising-swedish-genomics-analyses-using-nextflow/1)

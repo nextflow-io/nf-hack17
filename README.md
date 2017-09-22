@@ -34,6 +34,7 @@ Tutorial participants are encouraged to implement the Variant Calling pipeline d
 
 You can find below the link to the speaker slides: 
 
+* Luca Cozzuto - [From zero to Nextflow](https://www.slideshare.net/lucacozzuto/from-zero-to-nextflow-2017)
 * Matthieu Foll - [Computational workflows for omics analyses at the IARC](https://www.slideshare.net/MatthieuFoll/computational-workflows-for-omics-analyses-at-the-iarc) 
 * Paolo Di Tommaso - [Lessons learned and new challenges](https://speakerdeck.com/pditommaso/nextflow-workshop-17-lessons-learned-and-new-challenges)
 * Phil Ewels - [Standardising Swedish genomics analyses using Nextflow](https://www.slideshare.net/tallphil/standardising-swedish-genomics-analyses-using-nextflow/1)

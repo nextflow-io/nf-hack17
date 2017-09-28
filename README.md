@@ -42,3 +42,4 @@ You can find below the link to the speaker slides:
 * Paolo Di Tommaso - [Lessons learned and new challenges](https://speakerdeck.com/pditommaso/nextflow-workshop-17-lessons-learned-and-new-challenges)
 * Phil Ewels - [Standardising Swedish genomics analyses using Nextflow](https://www.slideshare.net/tallphil/standardising-swedish-genomics-analyses-using-nextflow/1)
 * Scott Hazelhurst - [Building pipelines to support African bioinformatics](slides/Scott-Hazelhurst.pdf)
+* Tim Dudgeon - [ Nextflow for chemistry - crossing the divide](slides/Tim-Dudgeon.pdf)

@@ -12,6 +12,8 @@ processing for quality control and report generation. We will talk about our exp
 including our setup in a secure cluster environment and how we currently use Docker in development, git-lfs for large files,
 Python for glue and custom code.
 
+[Slides](slides/hugues-fontenelle.pdf)
+
 ### Standardising Swedish genomics analyses using Nextflow
 
 *Phil Ewels, Department of Biochemistry and Biophysics, Science for Life Laboratory, Stockholm, Sweden*
@@ -23,6 +25,8 @@ Until recently, we had multiple analysis pipelines built with a range of differe
 This made development work difficult and led to inevitable technical debt. In this talk I will describe how we
 have migrated to Nextflow for a range of our data types, the difficulties that we faced and how we hope to leverage
 Nextflow to migrate to the cloud in coming years.
+
+[Slides](https://www.slideshare.net/tallphil/standardising-swedish-genomics-analyses-using-nextflow/1) 
 
 ### Building Pipelines to Support African Bioinformatics
 
@@ -44,6 +48,8 @@ The workflows covers (1) next generation sequence data; (2) metagenomics; (3) ge
 network over the next 5 years. This talk will give an overview of the pipelines, the process of building them
 collaboratively and reflect on lessons learned, especially with respect to workflow languages.
 
+[Slides](slides/Scott-Hazelhurst.pdf)
+
 ### Using Nextflow for Large Scale Benchmarking of Phylogenetic methods and tools
 
 *Frédéric Lemoine, Institut Pasteur, Unité Bioinformatique Evolutive, Centre de Bioinformatique, Biostatistique et Biologie Intégrative, Paris, France*
@@ -51,6 +57,8 @@ collaboratively and reflect on lessons learned, especially with respect to workf
 Robustness of phylogenetic inferences is usually assessed by bootstrapping multiple sequence alignments.
 However the use of the Felsenstein’s method, published in 1985, becomes questionable when analyzing big datasets.
 In this context, we developed a new method to compute the bootstrap supports, which we benchmarked using large alignments of mammalian and HIV sequences. All workflows were implemented in Nextflow and executed on a large cluster environment, requiring thousands of CPU hours. The workflows produce different kind of results, such as trees, tabular files, R graphics, or tree images.
+
+[Slides](slides/Frederic-Lemoine.pdf)
 
 ### Inside-Out: reproducible analysis of external data, inside containers with Nextflow
 
@@ -77,6 +85,8 @@ I will discuss our choices of workflow design in the context of the multidiscipl
 Finally, I will describe how nextflow has improved the overall quality of our research with a cost-benefit analysis and
 report the problems or limitations we have identified.
 
+[Slides](https://www.slideshare.net/MatthieuFoll/computational-workflows-for-omics-analyses-at-the-iarc)
+
 ### From zero to Nextflow @ CRG's Biocore
 
 *Luca Cozzuto, Bioinformatics Core Facility, Centre for Genomic Regulation (CRG), Barcelona, Spain*
@@ -85,6 +95,7 @@ The Bioinformatics Core Facility implemented during the years a number of proced
 high quality results to an increasing number of users. Here we present our experience with migrating some of
 extensively used pipelines to the Nextflow framework and creating docker/singularity containers for reproducibility.
 
+[Slides](https://www.slideshare.net/lucacozzuto/from-zero-to-nextflow-2017)
 
 ### Standardizing life sciences datasets to improve studies reproducibility in the European Open Science Cloud
 
@@ -99,6 +110,7 @@ Moreover it will be discussed how to improve the efficiency and the reusability 
 leveraging container technology and the Nextflow pipeline framework to deploy standard and reproducible
 workflows in the European Open Science Cloud (EOSCD) infrastructure.
 
+[Slides](slides/Jordi-Rambla.pdf)
 
 ### Nextflow for chemistry - crossing the divide
 
@@ -116,6 +128,8 @@ demanding workflows that address these needs, as well as drug discovery tasks su
 ligand based virtual screening. We will describe examples of how chemistry functionality can be
 used in Nextflow, and how this will be used in Informatics Matters web based workflow tool,
 the [Squonk](http://squonk.it) Computational Notebook.
+
+[Slides](slides/Tim-Dudgeon.pdf)
 
 ### Unbounded by Economics
 

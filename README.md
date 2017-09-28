@@ -34,6 +34,10 @@ Tutorial participants are encouraged to implement the Variant Calling pipeline d
 
 You can find below the link to the speaker slides: 
 
+* Frédéric Lemoine - [Large scale benchmarking of Phylogenetic bootstrap methods](slides/Frederic-Lemoine.pdf)
+* Hugues Fontenelle - [Medical Genetics at Oslo University Hospital](slides/hugues-fontenelle.pdf)
+* Jordi Rambla - [Standardizing life sciences datasets to improve reproducibility in the EOSC](slides/Jordi-Rambla.pdf)
 * Matthieu Foll - [Computational workflows for omics analyses at the IARC](https://www.slideshare.net/MatthieuFoll/computational-workflows-for-omics-analyses-at-the-iarc) 
 * Paolo Di Tommaso - [Lessons learned and new challenges](https://speakerdeck.com/pditommaso/nextflow-workshop-17-lessons-learned-and-new-challenges)
 * Phil Ewels - [Standardising Swedish genomics analyses using Nextflow](https://www.slideshare.net/tallphil/standardising-swedish-genomics-analyses-using-nextflow/1)
+* Scott Hazelhurst - [Building pipelines to support African bioinformatics](slides/Scott-Hazelhurst.pdf)
